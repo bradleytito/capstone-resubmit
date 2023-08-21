@@ -35,7 +35,7 @@ Download the requirements.txt file and run the following command in your termina
 
 ## To run program
 Enter the following code in the Docker Playground instance:
-	"docker run bradleytito/task3-capstone"
+	"docker run bradleytito/capstone-resubmit"
 
 ## Username and Password
 You will see that you require a username and password to access the website, please check the Dropbox folder for this information.
